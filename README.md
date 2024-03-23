@@ -1,5 +1,7 @@
 Hi! My name is Pratik Devganiya 😄
 ----------------------------------------------------------------------------------------------------
 
-🌍  I am a Full-Stack Developer based in Gujarat, India.
+- 🌍 I’m currently learning Full Stack Development
+- 🔭 I’m currently working on React.js
+- 📫 How to reach me: pratikdevganiya1288@gmail.com
 <br/>
